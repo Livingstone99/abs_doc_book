@@ -1,0 +1,8 @@
+django_heroku
+django==3
+requests
+gunicorn
+whitenoise
+django-rest-framework
+django_extensions
+django-cors-headers
